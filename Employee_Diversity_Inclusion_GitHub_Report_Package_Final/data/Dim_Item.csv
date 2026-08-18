@@ -1,0 +1,38 @@
+Item_ID,Section,Question,Scale
+DIV01,Workforce Diversity,Infinity Microfinance Bank employs people from different age groups.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+DIV02,Workforce Diversity,The bank has a balanced gender representation across departments.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+DIV03,Workforce Diversity,Employees from different ethnic backgrounds are represented in the workforce.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+DIV04,Workforce Diversity,The bank hires people with varying levels of educational qualifications.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+DIV05,Workforce Diversity,Employees with different years of work experience are employed at the bank.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+DIV06,Workforce Diversity,The banks recruitment process is fair and open to all qualified candidates regardless of background.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+DIV07,Workforce Diversity,The bank actively seeks to create a diverse workforce through its hiring practices.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+DIV08,Workforce Diversity,People with disabilities are given equal employment opportunities at the bank.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+DIV09,Workforce Diversity,The bank values and respects cultural differences among employees.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+INC01,Inclusion Practices,Diversity is visibly promoted and celebrated within the organization.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+INC02,Inclusion Practices,All employees are treated with fairness and respect regardless of their background.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+INC03,Inclusion Practices,Employees from diverse backgrounds have equal access to career development opportunities.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+INC04,Inclusion Practices,The banks policies and practices promote equal treatment for all employees.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+INC05,Inclusion Practices,There are effective channels for employees to report discrimination or unfair treatment.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+INC06,Inclusion Practices,I feel comfortable expressing my opinions and ideas at work without fear of judgment.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+INC07,Inclusion Practices,My unique perspectives and experiences are valued by my colleagues and supervisors.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+INC08,Inclusion Practices,Management demonstrates inclusive leadership by considering diverse viewpoints,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+INC09,Inclusion Practices,I feel a strong sense of belonging and acceptance in this organization.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+INC10,Inclusion Practices,The bank provides a supportive environment that encourages collaboration among diverse employees.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+PERF01,Organizational Performance,Employees are involved in decision-making processes that affect their work.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+PERF02,Organizational Performance,Employees at the bank are highly productive in their work.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+PERF03,Organizational Performance,The bank provides high-quality services to its customers.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+PERF04,Organizational Performance,Customer satisfaction levels are consistently high at the bank.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+PERF05,Organizational Performance,The bank retains most of its talented employees over time.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+PERF06,Organizational Performance,Employees are motivated and committed to achieving the bank's goals.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+PERF07,Organizational Performance,The banks financial performance has been improving over the past three years.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+PERF08,Organizational Performance,The bank effectively competes with other financial institutions in the market.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+PERF09,Organizational Performance,Innovation and creativity are encouraged and rewarded at the bank.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+PERF10,Organizational Performance,The bank achieves its strategic objectives consistently.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+PERF11,Organizational Performance,"Overall, the bank performs better than similar microfinance banks in the industry.",1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+REL01,Relationship Assessment,The banks  diverse workforce contributes to better problem-solving and decision-making.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+REL02,Relationship Assessment,Inclusive practices have improved employee morale and job satisfaction at the bank.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+REL03,Relationship Assessment,Diversity and inclusion initiatives have enhanced the bank's reputation and image.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+REL04,Relationship Assessment,The banks commitment to diversity and inclusion has positively affected customer relationships.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+REL05,Relationship Assessment,Employees perform better when they work in an inclusive and equitable environment.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+REL06,Relationship Assessment,I feel that I belong to this organization regardless of my background or identity.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
+REL07,Relationship Assessment,The organization ensures psychological safety so that employees can take risks without fear.,1=Strongly Disagree; 2=Disagree; 3=Neutral; 4=Agree; 5=Strongly Agree
